@@ -1,16 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "force_update": true,
-  "message": "يوجد إصدار جديد مهم، يجب التحديث للمتابعة.",
-  "apk_url": "https://www.mediafire.com/file/xxxxxx/KoraGoal.apk/file",
-  "release_date": "2026-02-23"
+  "message": "تم إصلاح الأخطاء وتحسين الأداء. يرجى التحديث للمتابعة.",
+  "apk_url": "https://example.com/path/to/new-app.apk"
 }
-
-
-
-
-
-
-
-
-
